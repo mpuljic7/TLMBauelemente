@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://example.invalid/</loc><xhtml:link rel="alternate" hreflang="de" href="https://example.invalid/"/><xhtml:link rel="alternate" hreflang="hr" href="https://example.invalid/hr/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://example.invalid/"/></url>
-  <url><loc>https://example.invalid/hr/</loc><xhtml:link rel="alternate" hreflang="de" href="https://example.invalid/"/><xhtml:link rel="alternate" hreflang="hr" href="https://example.invalid/hr/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://example.invalid/"/></url>
-  <url><loc>https://example.invalid/impressum.html</loc><xhtml:link rel="alternate" hreflang="de" href="https://example.invalid/impressum.html"/><xhtml:link rel="alternate" hreflang="hr" href="https://example.invalid/hr/impressum.html"/></url>
-  <url><loc>https://example.invalid/hr/impressum.html</loc><xhtml:link rel="alternate" hreflang="de" href="https://example.invalid/impressum.html"/><xhtml:link rel="alternate" hreflang="hr" href="https://example.invalid/hr/impressum.html"/></url>
-  <url><loc>https://example.invalid/datenschutz.html</loc><xhtml:link rel="alternate" hreflang="de" href="https://example.invalid/datenschutz.html"/><xhtml:link rel="alternate" hreflang="hr" href="https://example.invalid/hr/datenschutz.html"/></url>
-  <url><loc>https://example.invalid/hr/datenschutz.html</loc><xhtml:link rel="alternate" hreflang="de" href="https://example.invalid/datenschutz.html"/><xhtml:link rel="alternate" hreflang="hr" href="https://example.invalid/hr/datenschutz.html"/></url>
-</urlset>
