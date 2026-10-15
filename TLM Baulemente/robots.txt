@@ -1,0 +1,4 @@
+# Preview only. Set the real domain and enable indexing after completing docs/OBJAVA.md.
+User-agent: *
+Disallow: /
+Sitemap: https://example.invalid/sitemap.xml
