@@ -34,6 +34,6 @@ Prije javne objave obvezno prođite `docs/OBJAVA.md`. Trenutačno nema stvarnih 
 
 ## Uređivanje
 
-Tekst se mijenja izravno u odgovarajućim HTML datotekama za oba jezika. Dizajn je u `styles.css`; boje i osnovni razmaci definirani su CSS varijablama. Fotografije imaju lokalne responzivne izvore. Zadržite oznake da su fotografije ilustrativne dok ih ne zamijenite stvarnim odobrenim radovima.
+Tekst se mijenja izravno u odgovarajućim HTML datotekama za oba jezika. Dizajn je u `styles.css`; boje i osnovni razmaci definirani su CSS varijablama. Fotografije imaju lokalne responzivne izvore. Galerija je inspiracija; podaci o izvorima fotografija i potrebnim zamjenama nalaze se u `docs/FOTOGRAFIJE.md`.
 
 Obrazac se povezuje u `assets/js/config.js`. Dokumentiran ugovor za poslužitelj i način uključivanja dodatnih usluga nalaze se u `docs/OBJAVA.md`.

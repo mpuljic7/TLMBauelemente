@@ -79,6 +79,6 @@ Strukturirani poslovni podaci nisu dodani jer nedostaju stvarni detalji. Ne doda
 
 ## Pravne stranice
 
-`impressum.html`, `datenschutz.html` i hrvatske inačice su jasno označeni nacrti s nedostajućim informacijama. Prije javne objave tekst treba dovršiti i provjeriti prema stvarnom pružatelju, hostingu, obradi upita i važećim zahtjevima. Nacrti ne predstavljaju pravno mišljenje niti jamstvo usklađenosti.
+Prema zahtjevu vlasnika od 17. listopada 2026., iz `impressum.html`, `datenschutz.html` i hrvatskih inačica uklonjene su vidljive upute za dopunjavanje i oznake nacrta. Stranice sadrže samo poznate podatke i opis trenutačne funkcionalnosti. Izvorni nacrti sa svim napomenama sačuvani su u `PRAVNI-NACRTI.md`. Uklanjanje napomena ne dovršava pravni sadržaj: prije javne objave tekst treba dopuniti i provjeriti prema stvarnom pružatelju, hostingu, obradi upita i važećim zahtjevima. Ovi tekstovi ne predstavljaju pravno mišljenje niti jamstvo usklađenosti.
 
 Kod stranice ne uključuje analitiku, marketinške trackere, vanjske fontove, ugrađene karte ni kolačiće. Pružatelj hostinga ili naknadno dodana usluga mogu promijeniti tu situaciju; ažurirajte dokumentaciju i korisničke informacije prema stvarnoj konfiguraciji.

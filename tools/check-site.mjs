@@ -117,7 +117,7 @@ try{
  }
  for(const page of ['impressum.html','datenschutz.html','hr/impressum.html','hr/datenschutz.html']){
   await navigate('http://127.0.0.1:4173/'+page);await viewport(360);
-  check(`${page}: heading, draft and no overflow`,await evaluate(`document.querySelectorAll('h1').length===1 && !!document.querySelector('.legal-notice') && document.documentElement.scrollWidth<=innerWidth`));
+  check(`${page}: heading, content and no overflow`,await evaluate(`document.querySelectorAll('h1').length===1 && document.querySelectorAll('.legal-main section').length>0 && document.documentElement.scrollWidth<=innerWidth`));
  }
  check('No unexpected console errors',problems.length===0,JSON.stringify(problems));
  check('Mock endpoint received all six expected submissions',requestCount===6,String(requestCount));

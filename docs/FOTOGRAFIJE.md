@@ -1,6 +1,6 @@
 # Fotografije i identitet
 
-Sve slike poslužuju se lokalno. Fotografije su označene kao inspiracija, a ne izvedeni radovi tvrtke. Izvori su pregledani 14. listopada 2026.; stranice fotografija navode besplatno korištenje pod Unsplash licencom.
+Sve slike poslužuju se lokalno. Galerija nosi naziv Inspiration / Inspiracija. Fotografije nisu izvedeni radovi tvrtke. Prema zahtjevu vlasnika od 17. listopada 2026., napomene uz slike i upute za dopunu kontakata uklonjene su iz prezentacijskog sadržaja; podaci o izvorima i potrebnim dopunama ostaju u dokumentaciji. Izvori su pregledani 14. listopada 2026.; stranice fotografija navode besplatno korištenje pod Unsplash licencom.
 
 | Datoteka | Autor | Izvor |
 | --- | --- | --- |

@@ -8,7 +8,7 @@
     invalid: 'Provjerite označena polja.', sending: 'Slanje…', send: 'Pošaljite upit',
     success: 'Hvala na upitu. Vaša je poruka uspješno poslana.',
     error: 'Nismo mogli potvrditi slanje poruke. Uneseni podaci ostali su u obrascu. Pokušajte ponovno kasnije.',
-    unavailable: 'Slanje putem obrasca još nije omogućeno. Kontaktni podaci bit će dodani prije objave.',
+    unavailable: 'Slanje upita trenutačno nije dostupno.',
     ready: 'Opišite svoj projekt. Polja označena zvjezdicom obvezna su.',
     js: 'Za slanje upita omogućite JavaScript.'
   } : {
@@ -17,7 +17,7 @@
     invalid: 'Bitte prüfen Sie die markierten Felder.', sending: 'Wird gesendet…', send: 'Anfrage senden',
     success: 'Vielen Dank für Ihre Anfrage. Ihre Nachricht wurde erfolgreich gesendet.',
     error: 'Das Senden Ihrer Nachricht konnte nicht bestätigt werden. Ihre Angaben bleiben im Formular erhalten. Bitte versuchen Sie es später erneut.',
-    unavailable: 'Das Kontaktformular ist noch nicht freigeschaltet. Die Kontaktdaten werden vor der Veröffentlichung ergänzt.',
+    unavailable: 'Das Senden von Anfragen ist derzeit nicht möglich.',
     ready: 'Erzählen Sie uns von Ihrem Projekt. Mit einem Sternchen (*) markierte Felder sind Pflichtfelder.',
     js: 'Bitte aktivieren Sie JavaScript, um eine Anfrage zu senden.'
   };
